@@ -23,9 +23,9 @@ Voici quelques-uns de mes projets notables :
 
 ## Me contacter
 
-- **Email**: [votre-email@example.com](mailto:votre-email@example.com)
-- **LinkedIn**: [Votre profil LinkedIn](https://linkedin.com/in/your-profile)
-- **Twitter**: [@votre-pseudo-twitter](https://twitter.com/your-twitter-handle)
+- **Email**: [ceo@akili-learn.com](mailto:ceo@akili-learn.com)
+- **Instagram**: [@jessy01ts](https://www.instagram.com/jessy01ts/)
+- **Whatsapp**: [Link](https://wa.me/243823617961)
 
 ## Statistiques
 
